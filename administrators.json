@@ -1,0 +1,19 @@
+{
+    "administrators":[
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "supersecret"
+        },
+        {
+            "id": 2,
+            "username": "adam",
+            "password": "secret1"
+        },
+        {
+            "id": 3,
+            "username": "james",
+            "password": "secret2"
+        }
+    ]
+}
